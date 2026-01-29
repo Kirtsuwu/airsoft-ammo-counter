@@ -1,0 +1,3 @@
+[submodule "hd44780"]
+	path = components/hd44780
+	url = https://github.com/esp-idf-lib/hd44780.git
